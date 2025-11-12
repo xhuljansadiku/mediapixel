@@ -333,6 +333,34 @@ body {
 }
 
 
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 24px;
+  color: #2c2c2c;
+}
+
+.logo img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.logo img {
+  height: 40px;
+  width: auto;
+}
 
 
 
